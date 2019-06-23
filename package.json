@@ -11,13 +11,12 @@
   "bugs": {
     "url": "https://github.com/standardpress/eslint-config-standardpress/issues"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "files": [
     "index.js"
   ],
   "scripts": {
-    "lint": "eslint -c index.js index.js __tests__",
     "test": "jest"
   },
   "peerDependencies": {
